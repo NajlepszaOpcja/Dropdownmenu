@@ -1,26 +1,12 @@
 ﻿MAIN | MAIN | URL_DO_STRONY_MAIN
 
-CATEGORY | APP | URL_DO_APP | Podprojekt 1, https://www.youtube.com/watch?v=5ip7FmzRuF0; 
-Podprojekt 2, URL2;
-Podprojekt 3, URL3;
+CATEGORY | APP | URL_DO_APP | Podprojekt 1,https://www.youtube.com/watch?v=5ip7FmzRuF0; 
+Podprojekt 2,URL2; Podprojekt 3,URL3
 
+CATEGORY | Foto | URL_DO_APP | Podprojekt 1,URL1; Podprojekt 2,URL2; Podprojekt 3,URL3
 
-CATEGORY | Foto | URL_DO_APP | 
-Podprojekt 1, URL1;
-Podprojekt 2, URL2;
-Podprojekt 3, URL3;
+CATEGORY | 3D | URL_DO_3D | Podprojekt 1,URL1; Podprojekt 2,URL2; Podprojekt 3,URL3
 
-CATEGORY | 3D | URL_DO_3D | 
-3D WIZ, https://najlepszaopcja.com/3d/; 
-Podprojekt 2, URL2; 
-Podprojekt 3, URL3
+CATEGORY | Music | URL_DO_Music | Podprojekt 1,URL1; Podprojekt 2,URL2; Podprojekt 3,URL3
 
-CATEGORY | Music | URL_DO_Music | 
-Podprojekt 1, URL1;
-Podprojekt 2, URL2;
-Podprojekt 3, URL3;
-
-CATEGORY | KUPSKO | URL_DO_Kupsko | 
-Podprojekt 1, URL1;
-Podprojekt 2, URL2;
-Podprojekt 3, URL3l;
+CATEGORY | KUPSKO | URL_DO_Kupsko | Podprojekt 1,URL1; Podprojekt 2,URL2; Podprojekt 3,URL3
