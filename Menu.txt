@@ -1,9 +1,9 @@
 ﻿MAIN | MAIN | URL_DO_STRONY_MAIN
 
-CATEGORY | APP | URL_DO_APP | 
-Podprojekt 1, https://www.youtube.com/watch?v=5ip7FmzRuF0; 
+CATEGORY | APP | URL_DO_APP | Podprojekt 1, https://www.youtube.com/watch?v=5ip7FmzRuF0; 
 Podprojekt 2, URL2;
 Podprojekt 3, URL3;
+
 
 CATEGORY | Foto | URL_DO_APP | 
 Podprojekt 1, URL1;
