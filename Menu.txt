@@ -4,7 +4,7 @@ CATEGORY | APP | URL_DO_APP | Podprojekt 1,https://www.youtube.com/watch?v=5ip7F
 Podprojekt 2,URL2; 
 Podprojekt 3,URL3
 
-CATEGORY | Foto | URL_DO_APP | Podprojekt 1,URL1; Podprojekt 2,URL2; Podprojekt 3,URL3
+CATEGORY | Foto | URL_DO_APP | Foto Main,https://najlepszaopcja.com/foto/; Podprojekt 2,URL2; Podprojekt 3,URL3
 
 CATEGORY | 3D | URL_DO_3D | Wizualizacje 3D,https://najlepszaopcja.com/3d/; Podprojekt 2,URL2; Podprojekt 3,URL3
 
