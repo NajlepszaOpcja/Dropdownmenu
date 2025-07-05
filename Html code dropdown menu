@@ -8,15 +8,14 @@
 body {
   margin: 0;
   font-family: monospace;
-  font-size: 25px;
+  font-size: 20px;
   background: #000;
 }
 nav {
   background-color: #000;
-  padding: 10px;
-  border-radius: 15px;
-  width: 220px;
-  margin: 20px auto;
+  padding: 5px;
+  width: 250px;
+  margin: 15px auto;
 }
 .menu {
   list-style: none;
@@ -30,30 +29,43 @@ nav {
   color: white;
   text-decoration: none;
   display: block;
-  padding: 5px;
-  border-radius: 15px;
-  transition: background 0.3s;
-  transition: 1s;
+  padding: 2.5px;
+  border-radius: 10px;
+  border: 0px solid white;
+  width: 250px;
+  transition: background 6s, transform 3s, border 3s, width 3s, padding 4s;
 }
 .menu a:hover {
-  background: #333;
-  transition: 0.6s;
-  transform: translateX(10px)
+  background: #282928;
+  transition: 1s;
+  padding-left: 15px;
+  transform: translateX(10px);
+  width: 150px;
 }
-
+.menu li.active > a {
+  background: #282928;
+  padding-left: 15px;
+  border: 5px double white;
+  transform: translateX(10px) border;
+}
 .submenu {
   list-style: none;
+  font-size: 20px;
   padding: 0;
-  margin: 0;
   max-height: 0;
   overflow: hidden;
-  transition: max-height 0.3s ease;
+  transform: translateX(15px);
+  transition: max-height 0.6s;
+  transition-timing-function: ease-out;
 }
 .menu li.active .submenu {
   max-height: 500px;
+  max-width: 250px;
+  transition: max-height 3s;
+  transition-timing-function: ease;
 }
 .submenu li a {
-  padding-left: 30px;
+  padding-left: 15px;
 }
 </style>
 </head>
@@ -69,6 +81,12 @@ nav {
 function toggleMenu(event) {
   event.preventDefault();
   const li = event.target.parentElement;
+
+  // Wyłącz inne aktywne, jeśli chcesz tylko jeden otwarty:
+  // document.querySelectorAll('.menu li.active').forEach(el => {
+  //   if (el !== li) el.classList.remove('active');
+  // });
+
   li.classList.toggle('active');
 }
 
@@ -78,8 +96,25 @@ fetch('https://raw.githubusercontent.com/NajlepszaOpcja/Dropdownmenu/refs/heads/
     const lines = data.trim().split('\n');
     const menuContainer = document.getElementById('menuContainer');
 
+    let buffer = "";
+    const blocks = [];
+
     lines.forEach(line => {
-      const parts = line.split('|').map(p => p.trim());
+      if (line.startsWith('MAIN') || line.startsWith('CATEGORY')) {
+        if (buffer.trim() !== "") {
+          blocks.push(buffer.trim().replace(/\n/g, ' '));
+        }
+        buffer = line;
+      } else {
+        buffer += ' ' + line;
+      }
+    });
+    if (buffer.trim() !== "") {
+      blocks.push(buffer.trim().replace(/\n/g, ' '));
+    }
+
+    blocks.forEach(block => {
+      const parts = block.split('|').map(p => p.trim());
       const type = parts[0];
 
       if (type === 'MAIN') {
@@ -99,15 +134,19 @@ fetch('https://raw.githubusercontent.com/NajlepszaOpcja/Dropdownmenu/refs/heads/
         const submenu = document.createElement('ul');
         submenu.classList.add('submenu');
 
-        const subItems = parts[3].split(';');
+        const subItemsString = parts.slice(3).join('|');
+        const subItems = subItemsString.split(';').map(item => item.trim()).filter(item => item.length > 0);
+
         subItems.forEach(sub => {
-          const [subName, subUrl] = sub.split(',');
-          const subLi = document.createElement('li');
-          const subA = document.createElement('a');
-          subA.href = subUrl;
-          subA.textContent = subName;
-          subLi.appendChild(subA);
-          submenu.appendChild(subLi);
+          const [subName, subUrl] = sub.split(',').map(s => s.trim());
+          if (subName && subUrl) {
+            const subLi = document.createElement('li');
+            const subA = document.createElement('a');
+            subA.href = subUrl;
+            subA.textContent = subName;
+            subLi.appendChild(subA);
+            submenu.appendChild(subLi);
+          }
         });
 
         li.appendChild(a);
