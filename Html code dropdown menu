@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dynamic Foldable Menu</title>
+<style>
+body {
+  margin: 0;
+  font-family: monospace;
+  font-size: 25px;
+  background: #000;
+}
+nav {
+  background-color: #000;
+  padding: 10px;
+  border-radius: 15px;
+  width: 220px;
+  margin: 20px auto;
+}
+.menu {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.menu li {
+  position: relative;
+}
+.menu a {
+  color: white;
+  text-decoration: none;
+  display: block;
+  padding: 5px;
+  border-radius: 15px;
+  transition: background 0.3s;
+  transition: 1s;
+}
+.menu a:hover {
+  background: #333;
+  transition: 0.6s;
+  transform: translateX(10px)
+}
+
+.submenu {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease;
+}
+.menu li.active .submenu {
+  max-height: 500px;
+}
+.submenu li a {
+  padding-left: 30px;
+}
+</style>
+</head>
+<body>
+
+<nav>
+  <ul class="menu" id="menuContainer">
+    <!-- Menu dynamicznie załadowane z GitHub -->
+  </ul>
+</nav>
+
+<script>
+function toggleMenu(event) {
+  event.preventDefault();
+  const li = event.target.parentElement;
+  li.classList.toggle('active');
+}
+
+fetch('https://raw.githubusercontent.com/NajlepszaOpcja/Dropdownmenu/refs/heads/main/Menu.txt')
+  .then(response => response.text())
+  .then(data => {
+    const lines = data.trim().split('\n');
+    const menuContainer = document.getElementById('menuContainer');
+
+    lines.forEach(line => {
+      const parts = line.split('|').map(p => p.trim());
+      const type = parts[0];
+
+      if (type === 'MAIN') {
+        const li = document.createElement('li');
+        const a = document.createElement('a');
+        a.href = parts[2];
+        a.textContent = parts[1];
+        li.appendChild(a);
+        menuContainer.appendChild(li);
+      } else if (type === 'CATEGORY') {
+        const li = document.createElement('li');
+        const a = document.createElement('a');
+        a.href = parts[2];
+        a.textContent = parts[1];
+        a.addEventListener('click', toggleMenu);
+
+        const submenu = document.createElement('ul');
+        submenu.classList.add('submenu');
+
+        const subItems = parts[3].split(';');
+        subItems.forEach(sub => {
+          const [subName, subUrl] = sub.split(',');
+          const subLi = document.createElement('li');
+          const subA = document.createElement('a');
+          subA.href = subUrl;
+          subA.textContent = subName;
+          subLi.appendChild(subA);
+          submenu.appendChild(subLi);
+        });
+
+        li.appendChild(a);
+        li.appendChild(submenu);
+        menuContainer.appendChild(li);
+      }
+    });
+  });
+</script>
+
+</body>
+</html>
