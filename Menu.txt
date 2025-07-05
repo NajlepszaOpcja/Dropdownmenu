@@ -6,4 +6,4 @@ CATEGORY | Foto | URL_DO_APP | Podprojekt 1,URL1; Podprojekt 2,URL2; Podprojekt 
 
 CATEGORY | 3D | URL_DO_3D | Podprojekt 1,URL1; Podprojekt 2,URL2; Podprojekt 3,URL3
 
-CATEGORY | Music | URL_DO_MNusic | Podprojekt 1,URL1; Podprojekt 2,URL2; Podprojekt 3,URL3
+CATEGORY | Music | URL_DO_Music | Podprojekt 1,URL1; Podprojekt 2,URL2; Podprojekt 3,URL3
