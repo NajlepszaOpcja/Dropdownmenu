@@ -1,10 +1,10 @@
 CATEGORY | AI | URL_DO_AI | 
-Podprojekt 1,https://www.youtube.com/watch?v=5ip7FmzRuF0; 
+AI MAIN,https://najlepszaopcja.com/ai; 
 Podprojekt 2,URL2; 
 Podprojekt 3,URL3
 
 CATEGORY | APP | URL_DO_APP | 
-Podprojekt 1,https://www.youtube.com/watch?v=5ip7FmzRuF0; 
+App Main,https://najlepszaopcja.com/apps; 
 Podprojekt 2,URL2; 
 Podprojekt 3,URL3
 
@@ -14,19 +14,20 @@ Podprojekt 2,URL2;
 Podprojekt 3,URL3
 
 CATEGORY | 3D | URL_DO_3D | 
-Wizualizacje 3D,https://najlepszaopcja.com/3d/; 
+3D Main,https://najlepszaopcja.com/3d/; 
 Podprojekt 2,URL2; 
 Podprojekt 3,URL3
 
 CATEGORY | Music | URL_DO_Music | 
-Podprojekt 1,URL1; 
+Music Main,URL1; 
 Podprojekt 2,URL2; 
 Podprojekt 3,URL3
 
 CATEGORY | Szkolenia | URL_DO_Szkolenia | 
-Podprojekt 1,URL1; 
+Szkolenia Main,https://najlepszaopcja.com/szkolenia; 
 Podprojekt 2,URL2; 
 Podprojekt 3,URL3
+
 
 
 
