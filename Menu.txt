@@ -23,10 +23,11 @@ Music Main,URL1;
 Podprojekt 2,URL2; 
 Podprojekt 3,URL3
 
-CATEGORY | Szkolenia | URL_DO_Szkolenia | 
+CATEGORY |Szkolenia| URL_DO_Szkolenia | 
 Szkolenia Main,https://najlepszaopcja.com/szkolenia; 
 Podprojekt 2,URL2; 
 Podprojekt 3,URL3
+
 
 
 
