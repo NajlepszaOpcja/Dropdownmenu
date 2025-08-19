@@ -23,9 +23,10 @@ Podprojekt 1,URL1;
 Podprojekt 2,URL2; 
 Podprojekt 3,URL3
 
-CATEGORY | KUPSKO | URL_DO_Kupsko | 
+CATEGORY | Szkolenia | URL_DO_Szkolenia | 
 Podprojekt 1,URL1; 
 Podprojekt 2,URL2; 
 Podprojekt 3,URL3
+
 
 
