@@ -14,9 +14,10 @@ Podprojekt 2,URL2;
 Podprojekt 3,URL3
 
 CATEGORY | 3D | URL_DO_3D | 
-3D Main,https://najlepszaopcja.com/3d/; 
-Podprojekt 2,URL2; 
-Podprojekt 3,URL3
+3D Main,https://najlepszaopcja.com/main-3d/; 
+3D Viz,https://najlepszaopcja.com/main-3d/grafika-3d-viz/
+3D in Web,https://najlepszaopcja.com/main-3d/grafika-3d-3d-in-web
+Podprojekt 4,URL4
 
 CATEGORY | Music | URL_DO_Music | 
 Music Main,URL1; 
@@ -27,6 +28,8 @@ CATEGORY |Szkolenia| URL_DO_Szkolenia |
 Szkolenia Main,https://najlepszaopcja.com/szkolenia; 
 Podprojekt 2,URL2; 
 Podprojekt 3,URL3
+
+
 
 
 
