@@ -1,10 +1,10 @@
-CATEGORY | AI | URL_DO_AI |
+CATEGORY | 🜉 AI | URL_DO_AI |
 AI Main,https://najlepszaopcja.com/ai;
 Baza Wiedzy,URL2;
 GenAI,URL3
 Usługi,URL3
 
-CATEGORY | 𐄙APP | URL_DO_APP |
+CATEGORY | 𐄢 APP | URL_DO_APP |
 App Main,https://najlepszaopcja.com/apps;
 Baza Wiedzy,URL2;
 Podprojekt 3,URL3
@@ -14,28 +14,34 @@ Foto Main,https://najlepszaopcja.com/foto/;
 Podprojekt 2,URL2;
 Podprojekt 3,URL3
 
-CATEGORY | Grafika 3D | URL_DO_3D |
+CATEGORY | Ⱝ Grafika 3D | URL_DO_3D |
 3D Main,https://najlepszaopcja.com/main-3d/;
 3D Viz,https://najlepszaopcja.com/main-3d/grafika-3d-viz;
 3D Web,https://najlepszaopcja.com/main-3d/grafika-3d-3d-in-web;
 Podprojekt 4,URL4;
 
-CATEGORY | Druk 3D | URL_DO_Music |
+CATEGORY | ⰽ Druk 3D | URL_DO_Music |
 Druk 3D Main,URL1;
 Podprojekt 2,URL2;
 Podprojekt 3,URL3;
 Podprojekt 4,URL4;
 
-CATEGORY | Drony | URL_DO_Music |
-Drony Main,URL1;
-Podprojekt 2,URL2;
-Podprojekt 3,URL3;
-Podprojekt 4,URL4;
+CATEGORY | Ⲵ Drony | URL_DO_Music |
+Ⳓ Drony Main,URL1;
+Ⳟ Podprojekt 2,URL2;
+Ⳟ Podprojekt 3,URL3;
+Ⳟ Podprojekt 4,URL4;
 
-CATEGORY |Szkolenia| URL_DO_Szkolenia |
-Szkolenia Main,https://najlepszaopcja.com/szkolenia;
+CATEGORY | Ⳟ Szkolenia | URL_DO_Szkolenia |
+Ⳟ Szkolenia Main,https://najlepszaopcja.com/szkolenia;
+Ⳟ Podprojekt 2,URL2;
+Ⳟ Podprojekt 3,URL3
+
+CATEGORY | Kontakt | URL_DO_Kontakt |
+Kontakt,
 Podprojekt 2,URL2;
 Podprojekt 3,URL3
+
 
 
 
