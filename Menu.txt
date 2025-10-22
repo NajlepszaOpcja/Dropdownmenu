@@ -1,46 +1,47 @@
-CATEGORY | 🜉 AI | URL_DO_AI |
-AI Main,https://najlepszaopcja.com/ai;
-Baza Wiedzy,URL2;
-GenAI,URL3
-Usługi,URL3
+CATEGORY | Ⳟ AI | URL_DO_AI |
+ᚲ AI Main,https://najlepszaopcja.com/ai;
+ᚲ Baza Wiedzy,URL2;
+ᚲ GenAI,URL3
+ᚲ Usługi,URL3
 
-CATEGORY | 𐄢 APP | URL_DO_APP |
-App Main,https://najlepszaopcja.com/apps;
-Baza Wiedzy,URL2;
-Podprojekt 3,URL3
+CATEGORY | Ⳟ APP | URL_DO_APP |
+ᚲ App Main,https://najlepszaopcja.com/apps;
+ᚲ Baza Wiedzy,URL2;
+ᚲ Podprojekt 3,URL3
 
-CATEGORY | 𐄙Foto | URL_DO_APP |
-Foto Main,https://najlepszaopcja.com/foto/;
-Podprojekt 2,URL2;
-Podprojekt 3,URL3
+CATEGORY | Ⳟ Foto | URL_DO_APP |
+ᚲ Foto Main,https://najlepszaopcja.com/foto/;
+ᚲ Podprojekt 2,URL2;
+ᚲ Podprojekt 3,URL3
 
-CATEGORY | Ⱝ Grafika 3D | URL_DO_3D |
-3D Main,https://najlepszaopcja.com/main-3d/;
-3D Viz,https://najlepszaopcja.com/main-3d/grafika-3d-viz;
-3D Web,https://najlepszaopcja.com/main-3d/grafika-3d-3d-in-web;
-Podprojekt 4,URL4;
+CATEGORY | Ⳟ Grafika 3D | URL_DO_3D |
+ᚲ 3D Main,https://najlepszaopcja.com/main-3d/;
+ᚲ 3D Viz,https://najlepszaopcja.com/main-3d/grafika-3d-viz;
+ᚲ 3D Web,https://najlepszaopcja.com/main-3d/grafika-3d-3d-in-web;
+ᚲ Podprojekt 4,URL4;
 
 CATEGORY | ⰽ Druk 3D | URL_DO_Music |
 Druk 3D Main,URL1;
-Podprojekt 2,URL2;
-Podprojekt 3,URL3;
-Podprojekt 4,URL4;
+ⰽ Podprojekt 2,URL2;
+ⰽ Podprojekt 3,URL3;
+ⰽ Podprojekt 4,URL4;
 
-CATEGORY | Ⲵ Drony | URL_DO_Music |
-Ⳓ Drony Main,URL1;
-Ⳟ Podprojekt 2,URL2;
-Ⳟ Podprojekt 3,URL3;
-Ⳟ Podprojekt 4,URL4;
+CATEGORY | Ⳟ Drony | URL_DO_Music |
+ⰽ Drony Main,URL1;
+ⰽ Podprojekt 2,URL2;
+ⰽ Podprojekt 3,URL3;
+ⰽ Podprojekt 4,URL4;
 
 CATEGORY | Ⳟ Szkolenia | URL_DO_Szkolenia |
-Ⳟ Szkolenia Main,https://najlepszaopcja.com/szkolenia;
-Ⳟ Podprojekt 2,URL2;
-Ⳟ Podprojekt 3,URL3
+ⰽ Szkolenia Main,https://najlepszaopcja.com/szkolenia;
+ⰽ Podprojekt 2,URL2;
+ⰽ Podprojekt 3,URL3
 
-CATEGORY | Kontakt | URL_DO_Kontakt |
-Kontakt,
-Podprojekt 2,URL2;
-Podprojekt 3,URL3
+CATEGORY | Ⳟ Kontakt | URL_DO_Kontakt |
+ⰽ Kontakt,
+ⰽ Podprojekt 2,URL2;
+ⰽ Podprojekt 3,URL3
+
 
 
 
