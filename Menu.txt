@@ -20,27 +20,28 @@ CATEGORY | Ⳟ Grafika 3D | URL_DO_3D |
 ᚲ 3D Web,https://najlepszaopcja.com/main-3d/grafika-3d-3d-in-web;
 ᚲ Podprojekt 4,URL4;
 
-CATEGORY | ⰽ Druk 3D | URL_DO_Music |
-Druk 3D Main,URL1;
-ⰽ Podprojekt 2,URL2;
-ⰽ Podprojekt 3,URL3;
-ⰽ Podprojekt 4,URL4;
+CATEGORY | Ⳟ Druk 3D | URL_DO_Music |
+ᚲ Druk 3D Main,URL1;
+ᚲ Podprojekt 2,URL2;
+ᚲ Podprojekt 3,URL3;
+ᚲ Podprojekt 4,URL4;
 
 CATEGORY | Ⳟ Drony | URL_DO_Music |
-ⰽ Drony Main,URL1;
-ⰽ Podprojekt 2,URL2;
-ⰽ Podprojekt 3,URL3;
-ⰽ Podprojekt 4,URL4;
+ᚲ Drony Main,URL1;
+ᚲ Podprojekt 2,URL2;
+ᚲ Podprojekt 3,URL3;
+ᚲ Podprojekt 4,URL4;
 
 CATEGORY | Ⳟ Szkolenia | URL_DO_Szkolenia |
-ⰽ Szkolenia Main,https://najlepszaopcja.com/szkolenia;
-ⰽ Podprojekt 2,URL2;
-ⰽ Podprojekt 3,URL3
+ᚲ Szkolenia Main,https://najlepszaopcja.com/szkolenia;
+ᚲ Podprojekt 2,URL2;
+ᚲ Podprojekt 3,URL3
 
 CATEGORY | Ⳟ Kontakt | URL_DO_Kontakt |
-ⰽ Kontakt,
-ⰽ Podprojekt 2,URL2;
-ⰽ Podprojekt 3,URL3
+ᚲ Kontakt,
+ᚲ Podprojekt 2,URL2;
+ᚲ Podprojekt 3,URL3
+
 
 
 
