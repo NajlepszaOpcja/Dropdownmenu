@@ -4,12 +4,12 @@ Baza Wiedzy,URL2;
 GenAI,URL3
 Usługi,URL3
 
-CATEGORY | APP | URL_DO_APP |
+CATEGORY | 𐄙APP | URL_DO_APP |
 App Main,https://najlepszaopcja.com/apps;
 Baza Wiedzy,URL2;
 Podprojekt 3,URL3
 
-CATEGORY | Foto | URL_DO_APP |
+CATEGORY | 𐄙Foto | URL_DO_APP |
 Foto Main,https://najlepszaopcja.com/foto/;
 Podprojekt 2,URL2;
 Podprojekt 3,URL3
@@ -36,5 +36,6 @@ CATEGORY |Szkolenia| URL_DO_Szkolenia |
 Szkolenia Main,https://najlepszaopcja.com/szkolenia;
 Podprojekt 2,URL2;
 Podprojekt 3,URL3
+
 
 
