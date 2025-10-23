@@ -1,5 +1,5 @@
 
-______________________________
+___________
 CATEGORY | Ⳟ AI | URL_DO_AI |
 ᚲ AI Main,https://najlepszaopcja.com/ai;
 ᚲ Baza Wiedzy,URL2;
@@ -10,7 +10,7 @@ CATEGORY | Ⳟ APP | URL_DO_APP |
 ᚲ App Main,https://najlepszaopcja.com/apps;
 ᚲ Baza Wiedzy,URL2;
 ᚲ Podprojekt 3,URL3
-
+___________
 CATEGORY | Ⳟ Foto | URL_DO_APP |
 ᚲ Foto Main,https://najlepszaopcja.com/foto/;
 ᚲ Podprojekt 2,URL2;
@@ -43,6 +43,7 @@ CATEGORY | Ⳟ Kontakt | URL_DO_Kontakt |
 ᚲ Kontakt,
 ᚲ Podprojekt 2,URL2;
 ᚲ Podprojekt 3,URL3
+
 
 
 
