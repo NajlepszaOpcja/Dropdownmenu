@@ -11,7 +11,7 @@ CATEGORY | Ⳟ APP | URL_DO_APP |
 ᚲ Baza Wiedzy,URL2;
 ᚲ Podprojekt 3,URL3
 
-CATEGORY |________I_____| URL_DO_NONE |
+CATEGORY |_____________| URL_DO_NONE |
 ᚲ 123
 ᚲ 456
 ᚲ 789
@@ -48,6 +48,7 @@ CATEGORY | Ⳟ Kontakt | URL_DO_Kontakt |
 ᚲ Kontakt,
 ᚲ Podprojekt 2,URL2;
 ᚲ Podprojekt 3,URL3
+
 
 
 
