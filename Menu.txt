@@ -12,6 +12,9 @@ CATEGORY | Ⳟ APP | URL_DO_APP |
 ᚲ Podprojekt 3,URL3
 
 CATEGORY |_____________| URL_DO_NONE |
+ᚲ 123
+ᚲ 456
+ᚲ 789
 
 CATEGORY | Ⳟ Foto | URL_DO_APP |
 ᚲ Foto Main,https://najlepszaopcja.com/foto/;
@@ -45,6 +48,7 @@ CATEGORY | Ⳟ Kontakt | URL_DO_Kontakt |
 ᚲ Kontakt,
 ᚲ Podprojekt 2,URL2;
 ᚲ Podprojekt 3,URL3
+
 
 
 
