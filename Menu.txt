@@ -19,7 +19,7 @@ CATEGORY | Ⳟ Foto | URL_DO_APP |
 CATEGORY | Ⳟ Grafika 3D | URL_DO_3D |
 ᚲ 3D Main,https://najlepszaopcja.com/main-3d/;
 ᚲ 3D Viz,https://najlepszaopcja.com/main-3d/grafika-3d-viz;
-ᚲ 3D Web,https://najlepszaopcja.com/main-3d/grafika-3d-3d-in-web;
+ᚲ 3D Web,https://najlepszaopcja.com/main-3d/grafika-3d-web
 ᚲ Podprojekt 4,URL4;
 
 CATEGORY | Ⳟ Druk 3D | URL_DO_Music |
@@ -43,6 +43,7 @@ CATEGORY | Ⳟ Kontakt | URL_DO_Kontakt |
 ᚲ Kontakt,
 ᚲ Podprojekt 2,URL2;
 ᚲ Podprojekt 3,URL3
+
 
 
 
