@@ -1,48 +1,64 @@
-
+CATEGORY | Ⳟ HUB | URL_DO_HUB |
+ᚲ Strona GŁówna,URL0;
+ᚲ Aktualności,URL1;
+ᚲ Baza Wiedzy,URL2;
+ᚲ O nas,URL3;
+ᚲ Usługi,URL4;
 
 CATEGORY | Ⳟ AI | URL_DO_AI |
 ᚲ AI Main,https://najlepszaopcja.com/ai;
-ᚲ Baza Wiedzy,URL2;
-ᚲ GenAI,URL3
-ᚲ Usługi,URL3
+ᚲ GenAI,URL3;
+ᚲ Workflow,URL4;
+ᚲ Demo,URL5;
 
 CATEGORY | Ⳟ APP | URL_DO_APP |
 ᚲ App Main,https://najlepszaopcja.com/apps;
-ᚲ Baza Wiedzy,URL2;
-ᚲ Podprojekt 3,URL3
+ᚲ Web App,URL2;
+ᚲ Web3D App,URL2;
+ᚲ UI/UX,URL2;
+ᚲ Demo,URL3;
 
-CATEGORY | Ⳟ Foto | URL_DO_APP |
-ᚲ Foto Main,https://najlepszaopcja.com/foto/;
-ᚲ Podprojekt 2,URL2;
-ᚲ Podprojekt 3,URL3
-
-CATEGORY | Ⳟ Grafika 3D | URL_DO_3D |
+CATEGORY | Ⳟ Grafika 3D | URL_DO_3DGraphics |
 ᚲ 3D Main,https://najlepszaopcja.com/main-3d/;
 ᚲ 3D Viz,https://najlepszaopcja.com/main-3d/grafika-3d-viz;
 ᚲ 3D Web,https://najlepszaopcja.com/main-3d/grafika-3d-web
-ᚲ Podprojekt 4,URL4;
+ᚲ Game Dev,URL3;
+ᚲ Projektowanie 3D,URL4;
+ᚲ Rapid Prototyping,URL5;
 
-CATEGORY | Ⳟ Druk 3D | URL_DO_Music |
+CATEGORY | Ⳟ Druk 3D | URL_DO_Druk3D |
 ᚲ Druk 3D Main,URL1;
-ᚲ Podprojekt 2,URL2;
-ᚲ Podprojekt 3,URL3;
-ᚲ Podprojekt 4,URL4;
+ᚲ Skan 3D,URL2;
+ᚲ Projektowanie,URL3;
+ᚲ Usługi Druk,URL4;
 
-CATEGORY | Ⳟ Drony | URL_DO_Music |
+CATEGORY | Ⳟ Drony | URL_DO_Drony |
 ᚲ Drony Main,URL1;
-ᚲ Podprojekt 2,URL2;
-ᚲ Podprojekt 3,URL3;
-ᚲ Podprojekt 4,URL4;
+ᚲ Drony w Procesie 3D,URL1;
+ᚲ Usługi UAV,URL2;
+ᚲ Wdrożenia systemów UAV,URL3;
+ᚲ Baza wiedzy,URL4;
+
+CATEGORY | Ⳟ Foto | URL_DO_Foto |
+ᚲ Foto Main,https://najlepszaopcja.com/foto/;
+ᚲ Galeria,URL2;
+ᚲ Fotogametria,URL3
 
 CATEGORY | Ⳟ Szkolenia | URL_DO_Szkolenia |
-ᚲ Szkolenia Main,https://najlepszaopcja.com/szkolenia;
-ᚲ Podprojekt 2,URL2;
-ᚲ Podprojekt 3,URL3
+ᚲ Szkolenia,https://najlepszaopcja.com/szkolenia;
+ᚲ Wdrożenia,URL1;
+ᚲ Kursy,URL2;
+ᚲ Konsultacje,URL3;
 
 CATEGORY | Ⳟ Kontakt | URL_DO_Kontakt |
-ᚲ Kontakt,
-ᚲ Podprojekt 2,URL2;
-ᚲ Podprojekt 3,URL3
+ᚲ Dane Kontaktowe,URL1;
+ᚲ Dane Firmy,URL2;
+ᚲ Inne Projekty,URL3;
+
+
+
+
+
 
 
 
