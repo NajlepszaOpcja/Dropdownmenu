@@ -1,17 +1,17 @@
-CATEGORY | Ⳟ HUB | URL_DO_HUB |
+CATEGORY | Ⳟ HuB | URL_DO_HUB |
 ᚲ Strona GŁówna,URL0;
 ᚲ Aktualności,URL1;
 ᚲ Baza Wiedzy,URL2;
 ᚲ O nas,URL3;
 ᚲ Usługi,URL4;
 
-CATEGORY | Ⳟ AI | URL_DO_AI |
+CATEGORY | Ⳟ Ai | URL_DO_AI |
 ᚲ AI Main,https://najlepszaopcja.com/ai;
 ᚲ GenAI,URL3;
 ᚲ Workflow,URL4;
 ᚲ Demo,URL5;
 
-CATEGORY | Ⳟ APP | URL_DO_APP |
+CATEGORY | Ⳟ App | URL_DO_APP |
 ᚲ App Main,https://najlepszaopcja.com/apps;
 ᚲ Web App,URL2;
 ᚲ Web3D App,URL2;
@@ -54,6 +54,7 @@ CATEGORY | Ⳟ Kontakt | URL_DO_Kontakt |
 ᚲ Dane Kontaktowe,URL1;
 ᚲ Dane Firmy,URL2;
 ᚲ Inne Projekty,URL3;
+
 
 
 
