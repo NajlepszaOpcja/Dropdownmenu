@@ -1,5 +1,5 @@
 CATEGORY | Ⳟ Hub | URL_DO_HUB |
-ᚲ Start,URL0;
+ᚲ Start,https://najlepszaopcja.com/hub;
 ᚲ Aktualności,URL1;
 ᚲ Baza Wiedzy,URL2;
 ᚲ O nas(?),URL3;
@@ -54,6 +54,7 @@ CATEGORY | Ⳟ Kontakt | URL_DO_Kontakt |
 ᚲ Dane Kontaktowe,https://najlepszaopcja.com/kontakt/;
 ᚲ Dane Firmy,URL2;
 ᚲ Inne Projekty,URL3;
+
 
 
 
