@@ -2,7 +2,7 @@ CATEGORY | Ⳟ Hub | URL_DO_HUB |
 ᚲ Start,URL0;
 ᚲ Aktualności,URL1;
 ᚲ Baza Wiedzy,URL2;
-ᚲ O nas,URL3;
+ᚲ O nas(?),URL3;
 ᚲ Usługi,URL4;
 
 CATEGORY | Ⳟ Ai | URL_DO_AI |
@@ -21,22 +21,22 @@ CATEGORY | Ⳟ App | URL_DO_APP |
 CATEGORY | Ⳟ Grafika 3D | URL_DO_3DGraphics |
 ᚲ 3D Main,https://najlepszaopcja.com/main-3d/;
 ᚲ 3D Viz,https://najlepszaopcja.com/main-3d/grafika-3d-viz;
-ᚲ 3D Web,https://najlepszaopcja.com/main-3d/grafika-3d-web
+ᚲ 3D Web,https://najlepszaopcja.com/main-3d/grafika-3d-web;
+ᚲ 3D Design,URL4;
+ᚲ Rapid 3D Design,URL5;
 ᚲ Game Dev,URL3;
-ᚲ Projektowanie 3D,URL4;
-ᚲ Rapid Prototyping,URL5;
 
 CATEGORY | Ⳟ Druk 3D | URL_DO_Druk3D |
 ᚲ Druk 3D,https://najlepszaopcja.com/druk3d/;
 ᚲ Skan 3D,URL2;
-ᚲ Projektowanie,URL3;
+ᚲ Design,URL3;
 ᚲ Usługi Druk,URL4;
 
 CATEGORY | Ⳟ Drony | URL_DO_Drony |
 ᚲ Drony,https://najlepszaopcja.com/drony/;
 ᚲ Drony w Procesie 3D,URL1;
 ᚲ Usługi UAV,URL2;
-ᚲ Wdrożenia systemów UAV,URL3;
+ᚲ Systemy UAV,URL3;
 ᚲ Baza wiedzy,URL4;
 
 CATEGORY | Ⳟ Foto | URL_DO_Foto |
@@ -54,6 +54,7 @@ CATEGORY | Ⳟ Kontakt | URL_DO_Kontakt |
 ᚲ Dane Kontaktowe,https://najlepszaopcja.com/kontakt/;
 ᚲ Dane Firmy,URL2;
 ᚲ Inne Projekty,URL3;
+
 
 
 
