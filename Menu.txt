@@ -36,7 +36,7 @@ CATEGORY | Ⳟ Druk 3D | URL_DO_Druk3D |
 
 CATEGORY | Ⳟ Drony | URL_DO_Drony |
 ᚲ Drony,https://najlepszaopcja.com/drony/;
-ᚲ Drony w Procesie 3D,URL1;
+ᚲ 3D z Drona,URL1;
 ᚲ Usługi UAV,URL2;
 ᚲ Systemy UAV,URL3;
 ᚲ Baza wiedzy,URL4;
@@ -56,6 +56,7 @@ CATEGORY | Ⳟ Kontakt | URL_DO_Kontakt |
 ᚲ Dane Kontaktowe,https://najlepszaopcja.com/kontakt/;
 ᚲ Dane Firmy,URL2;
 ᚲ Inne Projekty,URL3;
+
 
 
 
