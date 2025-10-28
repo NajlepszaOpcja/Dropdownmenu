@@ -5,13 +5,13 @@ CATEGORY | Ⳟ Hub | URL_DO_HUB |
 ᚲ O nas(?),URL3;
 ᚲ Usługi,URL4;
 
-CATEGORY | Ⳟ 🜉 Ai | URL_DO_AI |
+CATEGORY | Ⳟ Ai | 🜉 |
 ᚲ AI Main,https://najlepszaopcja.com/ai;
 ᚲ GenAI,URL3;
 ᚲ Workflow,URL4;
 ᚲ Demo,URL5;
 
-CATEGORY | Ⳟ App | URL_DO_APP |
+CATEGORY | Ⳟ App | 🜋 |
 ᚲ App Main,https://najlepszaopcja.com/app/;
 ᚲ Web App,URL2;
 ᚲ Web3D App,URL2;
@@ -20,7 +20,7 @@ CATEGORY | Ⳟ App | URL_DO_APP |
 ᚲ 中文汉字,https://najlepszaopcja.com/app/中文汉字/;
 
 
-CATEGORY | Ⳟ Grafika 3D | URL_DO_3DGraphics |
+CATEGORY | Ⳟ Grafika 3D | 🝕 |
 ᚲ 3D Main,https://najlepszaopcja.com/main-3d/;
 ᚲ 3D Viz,https://najlepszaopcja.com/main-3d/grafika-3d-viz;
 ᚲ 3D Web,https://najlepszaopcja.com/main-3d/grafika-3d-web;
@@ -28,34 +28,35 @@ CATEGORY | Ⳟ Grafika 3D | URL_DO_3DGraphics |
 ᚲ Rapid 3D Design,URL5;
 ᚲ Game Dev,URL3;
 
-CATEGORY | Ⳟ Druk 3D | URL_DO_Druk3D |
+CATEGORY | Ⳟ Druk 3D | 🝘 |
 ᚲ Druk 3D,https://najlepszaopcja.com/druk3d/;
 ᚲ Skan 3D,URL2;
 ᚲ Design,URL3;
 ᚲ Usługi Druk,URL4;
 
-CATEGORY | Ⳟ Drony | URL_DO_Drony |
+CATEGORY | Ⳟ Drony | 🜁 |
 ᚲ Drony,https://najlepszaopcja.com/drony/;
 ᚲ 3D z Drona,URL1;
 ᚲ Usługi UAV,URL2;
 ᚲ Systemy UAV,URL3;
 ᚲ Baza wiedzy,URL4;
 
-CATEGORY | Ⳟ Foto | URL_DO_Foto |
+CATEGORY | Ⳟ Foto | 🜳 |
 ᚲ Foto Main,https://najlepszaopcja.com/foto/;
 ᚲ Galeria,URL2;
 ᚲ Fotogametria,URL3
 
-CATEGORY | Ⳟ Szkolenia | URL_DO_Szkolenia |
+CATEGORY | Ⳟ Szkolenia | 🝆 |
 ᚲ Szkolenia,https://najlepszaopcja.com/szkolenia;
 ᚲ Wdrożenia,URL1;
 ᚲ Kursy,URL2;
 ᚲ Konsultacje,URL3;
 
-CATEGORY | Ⳟ Kontakt | URL_DO_Kontakt |
+CATEGORY | Ⳟ Kontakt | 🜶 |
 ᚲ Kontakt,https://najlepszaopcja.com/kontakt/;
 ᚲ Dane Firmy,URL2;
 ᚲ Inne Projekty,URL3;
+
 
 
 
