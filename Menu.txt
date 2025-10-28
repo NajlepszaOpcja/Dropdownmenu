@@ -5,7 +5,7 @@ CATEGORY | Ⳟ Hub | URL_DO_HUB |
 ᚲ O nas(?),URL3;
 ᚲ Usługi,URL4;
 
-CATEGORY | Ⳟ Ai | URL_DO_AI |
+CATEGORY | Ⳟ 🜉 Ai | URL_DO_AI |
 ᚲ AI Main,https://najlepszaopcja.com/ai;
 ᚲ GenAI,URL3;
 ᚲ Workflow,URL4;
@@ -56,6 +56,7 @@ CATEGORY | Ⳟ Kontakt | URL_DO_Kontakt |
 ᚲ Kontakt,https://najlepszaopcja.com/kontakt/;
 ᚲ Dane Firmy,URL2;
 ᚲ Inne Projekty,URL3;
+
 
 
 
