@@ -12,7 +12,7 @@ CATEGORY | Ⳟ Ai | URL_DO_AI |
 ᚲ Demo,URL5;
 
 CATEGORY | Ⳟ App | URL_DO_APP |
-ᚲ App Main,https://najlepszaopcja.com/app;
+ᚲ App Main,https://najlepszaopcja.com/app/;
 ᚲ Web App,URL2;
 ᚲ Web3D App,URL2;
 ᚲ UI/UX,URL2;
@@ -56,6 +56,7 @@ CATEGORY | Ⳟ Kontakt | URL_DO_Kontakt |
 ᚲ Kontakt,https://najlepszaopcja.com/kontakt/;
 ᚲ Dane Firmy,URL2;
 ᚲ Inne Projekty,URL3;
+
 
 
 
