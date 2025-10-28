@@ -53,9 +53,10 @@ CATEGORY | Ⳟ Szkolenia | URL_DO_Szkolenia |
 ᚲ Konsultacje,URL3;
 
 CATEGORY | Ⳟ Kontakt | URL_DO_Kontakt |
-ᚲ Dane Kontaktowe,https://najlepszaopcja.com/kontakt/;
+ᚲ Kontakt,https://najlepszaopcja.com/kontakt/;
 ᚲ Dane Firmy,URL2;
 ᚲ Inne Projekty,URL3;
+
 
 
 
