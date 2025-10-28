@@ -1,6 +1,6 @@
 /BAZA WIEDZY/
 CATEGORY | Ⳟ Ai | 🜉 |
-ᚲ AI Main,https://najlepszaopcja.com/ai;
+ᚲ Photo to 3D,https://najlepszaopcja.com/ai/photo-to-3d-generation-process/;
 ᚲ GenAI,URL3;
 ᚲ Workflow,URL4;
 ᚲ Demo,URL5;
