@@ -5,10 +5,6 @@ CATEGORY | Ⳟ Ai | 🜉 |
         ᚲ 2,URL1;
         ᚲ 3,URL1;
         ᚲ GenAI,URL3;
-        SUBx_CAT | Zaawansowane AI | 𐄈 |
-            ᚲ 1.1,URL1;
-            ᚲ 2.2,URL1;
-            ᚲ 1.3,URL1;
     SUB_CAT | Workflow i Demo | 𐄈 |
         ᚲ Workflow,URL4;
         ᚲ Demo,URL5;
@@ -18,10 +14,6 @@ CATEGORY | Ⳟ App | 🜋 |
         ᚲ 1,URL1;
         ᚲ 2,URL1;
         ᚲ 3,URL1;
-        SUBx_CAT | Zaawansowane APP | 𐄈 |
-            ᚲ 1.1,URL1;
-            ᚲ 2.2,URL1;
-            ᚲ 1.3,URL1;
     SUB_CAT | Workflow i Demo | 𐄈 |
         ᚲ Workflow,URL4;
         ᚲ Demo,URL5;
@@ -31,10 +23,6 @@ CATEGORY | Ⳟ Grafika 3D | 🝕 |
         ᚲ 1,URL1;
         ᚲ 2,URL1;
         ᚲ 3,URL1;
-        SUBx_CAT | Zaawansowane 3D | 𐄈 |
-            ᚲ 1.1,URL1;
-            ᚲ 2.2,URL1;
-            ᚲ 1.3,URL1;
     SUB_CAT | Workflow i Demo | 𐄈 |
         ᚲ Workflow,URL4;
         ᚲ Demo,URL5;
@@ -44,10 +32,6 @@ CATEGORY | Ⳟ Druk 3D | 🝘 |
         ᚲ 1,URL1;
         ᚲ 2,URL1;
         ᚲ 3,URL1;
-        SUBx_CAT | Zaawansowane DRUK3D | 𐄈 |
-            ᚲ 1.1,URL1;
-            ᚲ 2.2,URL1;
-            ᚲ 1.3,URL1;
     SUB_CAT | Workflow i Demo | 𐄈 |
         ᚲ Workflow,URL4;
         ᚲ Demo,URL5;
@@ -57,10 +41,6 @@ CATEGORY | Ⳟ Drony | 🜁 |
         ᚲ 1,URL1;
         ᚲ 2,URL1;
         ᚲ 3,URL1;
-        SUBx_CAT | Zaawansowane DRONY | 𐄈 |
-            ᚲ 1.1,URL1;
-            ᚲ 2.2,URL1;
-            ᚲ 1.3,URL1;
     SUB_CAT | Workflow i Demo | 𐄈 |
         ᚲ Workflow,URL4;
         ᚲ Demo,URL5;
@@ -71,10 +51,6 @@ CATEGORY | Ⳟ Foto | 🜳 |
         ᚲ 2,URL1;
         ᚲ 3,URL1;
         ᚲ GenAI,URL3;
-        SUBx_CAT | Zaawansowane FOTO | 𐄈 |
-            ᚲ 1.1,URL1;
-            ᚲ 2.2,URL1;
-            ᚲ 1.3,URL1;
     SUB_CAT | Workflow i Demo | 𐄈 |
         ᚲ Workflow,URL4;
         ᚲ Demo,URL5;
