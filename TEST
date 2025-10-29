@@ -1,0 +1,55 @@
+/BAZA WIEDZY/
+CATEGORY | Ⳟ Ai | 🜉 |
+    SUB_CAT | Podstawy AI | 𐄇 |
+        ᚲ Photo to 3D,https://najlepszaopcja.com/ai/photo-to-3d-generation-process/;
+        ᚲ GenAI,URL3;
+        SUBx_CAT | Workflow i Demo | 𐄈 |
+            ᚲ Workflow,URL4;
+            ᚲ Demo,URL5;
+
+CATEGORY | Ⳟ App | 🜋 |
+    SUB_CAT | Aplikacje | 𐄇 |
+        ᚲ App Main,https://najlepszaopcja.com/app/;
+        ᚲ Web App,URL2;
+        ᚲ Web3D App,URL2;
+        SUBx_CAT | UI/UX i Demo | 𐄈 |
+            ᚲ UI/UX,URL2;
+            ᚲ Demo,URL3;
+        ᚲ 中文汉字,https://najlepszaopcja.com/app/中文汉字/;
+
+CATEGORY | Ⳟ Grafika 3D | 🝕 |
+    SUB_CAT | Podstawy Grafiki 3D | 𐄇 |
+        ᚲ 3D Main,https://najlepszaopcja.com/main-3d/;
+        ᚲ 3D Viz,https://najlepszaopcja.com/main-3d/grafika-3d-viz;
+        ᚲ 3D Web,https://najlepszaopcja.com/main-3d/grafika-3d-web;
+        SUBx_CAT | Design i GameDev | 𐄈 |
+            ᚲ 3D Design,URL4;
+            ᚲ Rapid 3D Design,URL5;
+            ᚲ Game Dev,URL3;
+
+CATEGORY | Ⳟ Druk 3D | 🝘 |
+    SUB_CAT | Podstawy Druku 3D | 𐄇 |
+        ᚲ Druk 3D,https://najlepszaopcja.com/druk3d/;
+        ᚲ Skan 3D,URL2;
+        SUBx_CAT | Design i Usługi | 𐄈 |
+            ᚲ Design,URL3;
+            ᚲ Usługi Druk,URL4;
+
+CATEGORY | Ⳟ Drony | 🜁 |
+    SUB_CAT | Podstawy Dronów | 𐄇 |
+        ᚲ Drony,https://najlepszaopcja.com/drony/;
+        ᚲ 3D z Drona,URL1;
+        SUBx_CAT | Usługi i Systemy | 𐄈 |
+            ᚲ Usługi UAV,URL2;
+            ᚲ Systemy UAV,URL3;
+            ᚲ Baza wiedzy,URL4;
+
+CATEGORY | Ⳟ Foto | 🜳 |
+    SUB_CAT | Podstawy fotografii | 𐄇 |
+        ᚲ Foto Main,https://najlepszaopcja.com/foto/;
+        ᚲ Galeria,URL2;
+        ᚲ Fotogametria,URL3;
+        SUBx_CAT | Kadrowanie i techniki | 𐄈 |
+            ᚲ Kadrowanie,URL5;
+            ᚲ Ekspozycja,URL6;
+            ᚲ Oświetlenie,URL7;
