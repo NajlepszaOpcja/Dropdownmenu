@@ -1,9 +1,9 @@
 /BAZA WIEDZY/
 CATEGORY | Ⳟ Ai | 🜉 |
     SUB_CAT | Podstawy AI | 𐄇 |
-        ᚲ 1,URL1;
-        ᚲ 2,URL1;
-        ᚲ 3,URL1;
+        ᚲ 1.Podstawy AI,URL1;
+        ᚲ 2.Podstawy AI,URL1;
+        ᚲ 3.Podstawy AI,URL1;
         ᚲ GenAI,URL3;
     SUB_CAT | Workflow i Demo | 𐄈 |
         ᚲ Workflow,URL4;
