@@ -10,7 +10,7 @@ CATEGORY | Ⳟ Ai | 🜉 |
 ᚲ Ai Main,https://najlepszaopcja.com/ai;
 ᚲ GenAI,https://najlepszaopcja.com/ai/genai/;
 ᚲ Workflow,https://najlepszaopcja.com/ai/workflow/;
-ᚲ Demo,ttps://najlepszaopcja.com/ai/ai-demo/;
+ᚲ Demo,https://najlepszaopcja.com/ai/aidemo/;
 
 CATEGORY | Ⳟ App | 🜋 |
 ᚲ App Main,https://najlepszaopcja.com/app/;
@@ -55,6 +55,7 @@ CATEGORY | Ⳟ Kontakt | 🜶 |
 ᚲ Kontakt,https://najlepszaopcja.com/kontakt/;
 ᚲ Dane Firmy,https://najlepszaopcja.com/kontakt/dane-firmy/;
 ᚲ Inne Projekty,https://najlepszaopcja.com/kontakt/inne-projekty/;
+
 
 
 
