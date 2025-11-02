@@ -18,8 +18,6 @@ CATEGORY | Ⳟ App | 🜋 |
 ᚲ Web3D App,https://najlepszaopcja.com/app/web3d-app/;
 ᚲ UI/UX,https://najlepszaopcja.com/app/ui-ux/;
 ᚲ Demo,https://najlepszaopcja.com/app/demo/;
-ᚲ 中文汉字,https://najlepszaopcja.com/app/中文汉字/;
-
 
 CATEGORY | Ⳟ Grafika 3D | 🝕 |
 ᚲ 3D Main,https://najlepszaopcja.com/main-3d/;
@@ -57,6 +55,7 @@ CATEGORY | Ⳟ Kontakt | 🜶 |
 ᚲ Kontakt,https://najlepszaopcja.com/kontakt/;
 ᚲ Dane Firmy,https://najlepszaopcja.com/kontakt/dane-firmy/;
 ᚲ Inne Projekty,https://najlepszaopcja.com/kontakt/inne-projekty/;
+
 
 
 
