@@ -7,7 +7,7 @@ CATEGORY | Ⳟ Hub | 🜛 |
 ᚲ Usługi,URL;
 
 CATEGORY | Ⳟ Ai | 🜉 |
-ᚲ AI Main,https://najlepszaopcja.com/ai;
+ᚲ Ai Main,https://najlepszaopcja.com/ai;
 ᚲ GenAI,https://najlepszaopcja.com/ai/genai/;
 ᚲ Workflow,https://najlepszaopcja.com/ai/workflow/;
 ᚲ Demo,ttps://najlepszaopcja.com/ai/ai-demo/;
@@ -57,6 +57,7 @@ CATEGORY | Ⳟ Kontakt | 🜶 |
 ᚲ Kontakt,https://najlepszaopcja.com/kontakt/;
 ᚲ Dane Firmy,https://najlepszaopcja.com/kontakt/dane-firmy/;
 ᚲ Inne Projekty,https://najlepszaopcja.com/kontakt/inne-projekty/;
+
 
 
 
