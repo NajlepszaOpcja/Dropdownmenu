@@ -24,7 +24,7 @@ CATEGORY | Ⳟ Grafika 3D | 🝕 |
 ᚲ 3D Viz,https://najlepszaopcja.com/main-3d/grafika-3d-viz;
 ᚲ 3D Web,https://najlepszaopcja.com/main-3d/grafika-3d-web;
 ᚲ 3D Design,https://najlepszaopcja.com/main-3d/3d-design/;
-ᚲ Rapid 3D Design,URL5;
+ᚲ Rapid Design,URL5;
 ᚲ Game Dev,https://najlepszaopcja.com/main-3d/game-dev/;
 
 CATEGORY | Ⳟ Druk 3D | 🝘 |
@@ -55,6 +55,7 @@ CATEGORY | Ⳟ Kontakt | 🜶 |
 ᚲ Kontakt,https://najlepszaopcja.com/kontakt/;
 ᚲ Dane Firmy,https://najlepszaopcja.com/kontakt/dane-firmy/;
 ᚲ Inne Projekty,https://najlepszaopcja.com/kontakt/inne-projekty/;
+
 
 
 
