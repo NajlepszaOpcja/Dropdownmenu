@@ -54,3 +54,33 @@ CATEGORY | Ⳟ Foto | 🜳 |
     SUB_CAT | Workflow i Demo | 𐄈 |
         ᚲ Workflow,URL4;
         ᚲ Demo,URL5;
+
+CATEGORY | Ⳟ Test 1 | ⺋ |
+    SUB_CAT | Podstawy Test 1 | 𐄇 |
+        ᚲ 1,URL1;
+        ᚲ 2,URL1;
+        ᚲ 3,URL1;
+        ᚲ GenAI,URL3;
+    SUB_CAT | Test 1.1 | 𐄈 |
+        ᚲ Workflow,URL4;
+        ᚲ Demo,URL5;
+
+CATEGORY | Ⳟ Test 2 | 🜌 |
+    SUB_CAT | Podstawy Test 2 | 𐄇 |
+        ᚲ 1,URL1;
+        ᚲ 2,URL1;
+        ᚲ 3,URL1;
+        ᚲ GenAI,URL3;
+    SUB_CAT | Test 2.1 | 𐄈 |
+        ᚲ Workflow,URL4;
+        ᚲ Demo,URL5;
+
+CATEGORY | Ⳟ Test 3 | 🜽 |
+    SUB_CAT | Podstawy Test 3 | 𐄇 |
+        ᚲ 1,URL1;
+        ᚲ 2,URL1;
+        ᚲ 3,URL1;
+        ᚲ GenAI,URL3;
+    SUB_CAT | Test 3.1 | 𐄈 |
+        ᚲ Workflow,URL4;
+        ᚲ Demo,URL5;
