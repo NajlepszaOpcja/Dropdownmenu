@@ -29,7 +29,7 @@ CATEGORY | Ⳟ Grafika 3D | 🝕 |
 
 CATEGORY | Ⳟ Druk 3D | 🝘 |
     SUB_CAT | Podstawy DRUK3D | 𐄇 |
-        ᚲ 1,URL1;
+        ᚲ Strona główna,https://najlepszaopcja.com/hub/baza-wiedzy/baza-wiedzy-druk3d-main/;
         ᚲ 2,URL1;
         ᚲ 3,URL1;
     SUB_CAT | Workflow i Demo | 𐄈 |
