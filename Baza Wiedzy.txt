@@ -31,7 +31,7 @@ CATEGORY | Ⳟ Druk 3D | 🝘 |
     SUB_CAT | Podstawy DRUK3D | 𐄇 |
         ᚲ Strona główna,https://najlepszaopcja.com/hub/baza-wiedzy/baza-wiedzy-druk3d-main/;
         ᚲ Technologie,URL1;
-        ᚲ Materiały,URL2;
+        ᚲ Materiały,https://najlepszaopcja.com/hub/baza-wiedzy/baza-wiedzy-druk3d-materialy/;
         ᚲ Proces,URL3;
     SUB_CAT | Workflow i Demo | 𐄈 |
         ᚲ Workflow,URL4;
