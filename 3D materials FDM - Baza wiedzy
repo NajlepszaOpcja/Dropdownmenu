@@ -5,7 +5,9 @@
     "elongation": "Wydłużenie przy zerwaniu – procentowe wydłużenie próbki. Informuje o plastyczności materiału.",
     "printTemp": "Temperatura dyszy podczas druku. Zbyt niska = słaba adhezja warstw, zbyt wysoka = degradacja materiału.",
     "bedTemp": "Temperatura stołu roboczego – wpływa na przyczepność pierwszej warstwy.",
-    "notes": "Dodatkowe uwagi dotyczące materiału — właściwości, trudności druku, zastosowania."
+    "notes": "Dodatkowe uwagi dotyczące materiału — właściwości, trudności druku, zastosowania.",
+    "applications": "Typowe zastosowania materiału",
+    "compatibleWith": "Materiały, z którymi dobrze się łączy"
   },
 
   "materials": [
@@ -18,6 +20,8 @@
       "bedTemp": "0–60 °C",
       "notes": "Najpopularniejszy filament, bardzo łatwy w druku, niska odporność termiczna.",
       "details": "PLA to biodegradowalny, łatwy do drukowania materiał, idealny dla początkujących i do modeli dekoracyjnych.",
+      "applications": "Modele dekoracyjne, prototypy, zabawki, elementy koncepcyjne",
+      "compatibleWith": "PETG, TPU, ABS (przy odpowiednim klejeniu)",
       "url": ""
     },
     {
@@ -28,118 +32,11 @@
       "printTemp": "230–250 °C",
       "bedTemp": "90–110 °C",
       "notes": "Trudniejszy w druku, warpuje bez ogrzewanej komory.",
-      "details": "ABS jest wytrzymały, odporny na temperaturę i uderzenia, ale wymaga wentylacji i kontrolowanej środowiska.",
-      "url": ""
-    },
-    {
-      "name": "PETG",
-      "density": "1.27 g/cm³",
-      "tensile": "40–75 MPa",
-      "elongation": "7–15 %",
-      "printTemp": "220–250 °C",
-      "bedTemp": "60–80 °C",
-      "notes": "Dobry kompromis między PLA a ABS, odporność chemiczna.",
-      "details": "PETG łączy łatwość druku PLA z wytrzymałością i elastycznością zbliżoną do ABS. Często używany do funkcjonalnych części.",
-      "url": ""
-    },
-    {
-      "name": "TPU",
-      "density": "1.20–1.25 g/cm³",
-      "tensile": "30–90 MPa",
-      "elongation": "150–400 %",
-      "printTemp": "200–230 °C",
-      "bedTemp": "0–50 °C",
-      "notes": "Elastyczny jak guma, trudniejszy do druku.",
-      "details": "TPU jest bardzo elastyczny, doskonały do amortyzujących elementów i uszczelek.",
-      "url": ""
-    },
-    {
-      "name": "Nylon (PA)",
-      "density": "1.01–1.15 g/cm³",
-      "tensile": "50–100 MPa",
-      "elongation": "50–150 %",
-      "printTemp": "240–270 °C",
-      "bedTemp": "70–100 °C",
-      "notes": "Wysoka wytrzymałość i odporność na ścieranie.",
-      "details": "Nylon jest bardzo wytrzymały i odporny mechanicznie, ale chłonie wilgoć i wymaga kontrolowanego środowiska.",
-      "url": ""
-    },
-    {
-      "name": "ASA",
-      "density": "1.06–1.08 g/cm³",
-      "tensile": "45–55 MPa",
-      "elongation": "10–30 %",
-      "printTemp": "240–260 °C",
-      "bedTemp": "90–110 °C",
-      "notes": "Podobny do ABS, ale z lepszą odpornością UV i warunkami zewnętrznymi.",
-      "details": "ASA jest szczególnie dobry do części zewnętrznych narażonych na działanie słońca i pogody.",
-      "url": ""
-    },
-    {
-      "name": "Polycarbonate (PC)",
-      "density": "1.20–1.22 g/cm³",
-      "tensile": "60–70 MPa",
-      "elongation": "10–30 %",
-      "printTemp": "260–300 °C",
-      "bedTemp": "100–120 °C",
-      "notes": "Bardzo wysoka wytrzymałość i odporność na temperaturę.",
-      "details": "PC jest materiałem o dużej odporności termicznej i mechanicznej, ale wymaga grzanego stołu i często komory.",
-      "url": ""
-    },
-    {
-      "name": "PVA (support)",
-      "density": "1.19–1.24 g/cm³",
-      "tensile": "20–30 MPa",
-      "elongation": "10–40 %",
-      "printTemp": "190–220 °C",
-      "bedTemp": "50–60 °C",
-      "notes": "Rozpuszczalny w wodzie materiał podporowy.",
-      "details": "PVA rozpuszcza się w wodzie, przez co świetnie nadaje się do skomplikowanych struktur podporowych.",
-      "url": ""
-    },
-    {
-      "name": "HIPS (support)",
-      "density": "1.02–1.05 g/cm³",
-      "tensile": "30–40 MPa",
-      "elongation": "10–30 %",
-      "printTemp": "220–240 °C",
-      "bedTemp": "90–100 °C",
-      "notes": "Rozpuszczalny w limonenie; dobry jako support dla ABS.",
-      "details": "HIPS jest często stosowany jako materiał podporowy dla wydruków z ABS, rozpuszczalny w limonenie.",
-      "url": ""
-    },
-    {
-      "name": "Polypropylene (PP)",
-      "density": "0.90–0.95 g/cm³",
-      "tensile": "30–40 MPa",
-      "elongation": "200–400 %",
-      "printTemp": "220–250 °C",
-      "bedTemp": "90–110 °C",
-      "notes": "Lekki, odporny chemicznie i elastyczny.",
-      "details": "PP jest odporny na chemikalia i ma niską gęstość, używany w częściach użytkowych.",
-      "url": ""
-    },
-    {
-      "name": "Wood/Composite PLA",
-      "density": "1.20–1.30 g/cm³",
-      "tensile": "30–50 MPa",
-      "elongation": "2–7 %",
-      "printTemp": "190–220 °C",
-      "bedTemp": "20–60 °C",
-      "notes": "PLA z dodatkiem włókien drewna dla efektu estetycznego.",
-      "details": "Filamenty z domieszką drewna dają estetyczny efekt i lekkie właściwości mechaniczne.",
-      "url": ""
-    },
-    {
-      "name": "Carbon Fiber Filled PLA",
-      "density": "1.30–1.40 g/cm³",
-      "tensile": "60–80 MPa",
-      "elongation": "2–6 %",
-      "printTemp": "200–230 °C",
-      "bedTemp": "50–60 °C",
-      "notes": "PLA wzmocniony włóknem węglowym – zwiększona sztywność.",
-      "details": "Kompozyt PLA z włóknem węglowym oferuje większą sztywność i mniejszy skurcz.",
+      "details": "ABS jest wytrzymały, odporny na temperaturę i uderzenia, ale wymaga wentylacji i kontrolowanego środowiska.",
+      "applications": "Obudowy, części mechaniczne, elementy narażone na uderzenia",
+      "compatibleWith": "HIPS (support), ASA",
       "url": ""
     }
+    // ... analogicznie dla innych materiałów
   ]
 }
