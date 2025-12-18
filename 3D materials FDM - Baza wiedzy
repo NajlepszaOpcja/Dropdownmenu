@@ -1,1 +1,34 @@
-213
+{
+  "parameterDescriptions": {
+    "density": "Gęstość materiału – masa na jednostkę objętości. Wpływa na wagę wydruku i zużycie materiału. Jednostka: g/cm³.",
+    "tensile": "Wytrzymałość na rozciąganie – maksymalne naprężenie przed zerwaniem próbki. Jednostka: MPa.",
+    "elongation": "Wydłużenie przy zerwaniu – procentowe wydłużenie próbki. Informuje o plastyczności materiału.",
+    "printTemp": "Temperatura dyszy podczas druku. Zbyt niska = słaba adhezja warstw, zbyt wysoka = degradacja materiału.",
+    "bedTemp": "Temperatura stołu roboczego – wpływa na przyczepność pierwszej warstwy."
+  },
+
+  "materials": [
+    {
+      "name": "PLA",
+      "density": "1.24–1.27 g/cm³",
+      "tensile": "52–60 MPa",
+      "elongation": "2–7 %",
+      "printTemp": "190–220 °C",
+      "bedTemp": "50–60 °C",
+      "notes": "Bardzo łatwy w druku, sztywny, niska odporność termiczna",
+      "details": "PLA to materiał biodegradowalny, idealny do prototypów i elementów dekoracyjnych.",
+      "url": ""
+    },
+    {
+      "name": "ABS",
+      "density": "1.05–1.06 g/cm³",
+      "tensile": "26–43 MPa",
+      "elongation": "10–50 %",
+      "printTemp": "230–250 °C",
+      "bedTemp": "90–110 °C",
+      "notes": "Odporność na temperaturę i uderzenia, skurcz",
+      "details": "ABS wymaga zamkniętej komory i jest odporny na temperaturę.",
+      "url": ""
+    }
+  ]
+}
