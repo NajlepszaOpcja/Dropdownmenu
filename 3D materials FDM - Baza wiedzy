@@ -29,28 +29,6 @@
       "notes": "Odporność na temperaturę i uderzenia, skurcz",
       "details": "ABS wymaga zamkniętej komory i jest odporny na temperaturę.",
       "url": ""
-    },
-    {
-      "name": "BZDURY",
-      "density": "1.05–1.06 g/cm³",
-      "tensile": "26–43 MPa",
-      "elongation": "10–50 %",
-      "printTemp": "230–250 °C",
-      "bedTemp": "90–110 °C",
-      "notes": "Odporność na temperaturę i uderzenia, skurcz",
-      "details": "ABS wymaga zamkniętej komory i jest odporny na temperaturę.",
-      "url": ""
-    },
-    {
-      "name": "MAzury",
-      "density": "1.05–1.06 g/cm³",
-      "tensile": "26–43 MPa",
-      "elongation": "10–50 %",
-      "printTemp": "230–250 °C",
-      "bedTemp": "90–110 °C",
-      "notes": "Odporność na temperaturę i uderzenia, skurcz",
-      "details": "ABS wymaga zamkniętej komory i jest odporny na temperaturę.",
-      "url": ""
-    },
+    }
   ]
 }
