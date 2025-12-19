@@ -4,7 +4,7 @@ CATEGORY | Ⳟ Hub | 🜛 |
 ᚲ Aktualności,https://najlepszaopcja.com/hub/aktualnosci/;
 ᚲ Baza Wiedzy,https://najlepszaopcja.com/hub/baza-wiedzy;
 ᚲ O nas(?),https://najlepszaopcja.com/hub/o-nas/;
-ᚲ Usługi,URL;
+ᚲ Usługi,https://najlepszaopcja.com/hub/uslugi/;
 
 CATEGORY | Ⳟ Ai | 🜉 |
 ᚲ Ai Main,https://najlepszaopcja.com/ai;
@@ -24,7 +24,6 @@ CATEGORY | Ⳟ Grafika 3D | 🝕 |
 ᚲ 3D Viz,https://najlepszaopcja.com/main-3d/grafika-3d-viz;
 ᚲ 3D Web,https://najlepszaopcja.com/main-3d/grafika-3d-web;
 ᚲ 3D Design,https://najlepszaopcja.com/main-3d/3d-design/;
-ᚲ Rapid Design,URL5;
 ᚲ Game Dev,https://najlepszaopcja.com/main-3d/game-dev/;
 
 CATEGORY | Ⳟ Druk 3D | 🝘 |
@@ -55,6 +54,7 @@ CATEGORY | Ⳟ Kontakt | 🜶 |
 ᚲ Kontakt,https://najlepszaopcja.com/kontakt/;
 ᚲ Dane Firmy,https://najlepszaopcja.com/kontakt/dane-firmy/;
 ᚲ Inne Projekty,https://najlepszaopcja.com/kontakt/inne-projekty/;
+
 
 
 
