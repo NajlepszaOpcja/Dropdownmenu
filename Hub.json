@@ -1,0 +1,112 @@
+[
+  {
+    "id": "ai",
+    "title": "Ai",
+    "icon": "Ⳟ",
+    "sub_icon": "🜉",
+    "children": [
+      {
+        "id": "podstawy_ai",
+        "title": "Podstawy AI",
+        "icon": "𐄇",
+        "children": [
+          { "id": "1_podstawy_ai", "title": "1.Podstawy AI", "url": "URL1" },
+          { "id": "2_podstawy_ai", "title": "2.Podstawy AI", "url": "URL1" },
+          { "id": "3_podstawy_ai", "title": "3.Podstawy AI", "url": "URL1" },
+          { "id": "genai", "title": "GenAI", "url": "URL3" }
+        ]
+      },
+      {
+        "id": "workflow_i_demo",
+        "title": "Workflow i Demo",
+        "icon": "𐄈",
+        "children": [
+          { "id": "workflow", "title": "Workflow", "url": "URL4" },
+          { "id": "demo", "title": "Demo", "url": "URL5" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "app",
+    "title": "App",
+    "icon": "Ⳟ",
+    "sub_icon": "🜋",
+    "children": [
+      {
+        "id": "podstawy_app",
+        "title": "Podstawy APP",
+        "icon": "𐄇",
+        "children": [
+          { "id": "1", "title": "1", "url": "URL1" },
+          { "id": "2", "title": "2", "url": "URL1" },
+          { "id": "3", "title": "3", "url": "URL1" }
+        ]
+      },
+      {
+        "id": "workflow_i_demo",
+        "title": "Workflow i Demo",
+        "icon": "𐄈",
+        "children": [
+          { "id": "workflow", "title": "Workflow", "url": "URL4" },
+          { "id": "demo", "title": "Demo", "url": "URL5" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "grafika_3d",
+    "title": "Grafika 3D",
+    "icon": "Ⳟ",
+    "sub_icon": "🝕",
+    "children": [
+      {
+        "id": "podstawy_3d",
+        "title": "Podstawy 3D",
+        "icon": "𐄇",
+        "children": [
+          { "id": "1", "title": "1", "url": "URL1" },
+          { "id": "2", "title": "2", "url": "URL1" },
+          { "id": "3", "title": "3", "url": "URL1" }
+        ]
+      },
+      {
+        "id": "workflow_i_demo",
+        "title": "Workflow i Demo",
+        "icon": "𐄈",
+        "children": [
+          { "id": "workflow", "title": "Workflow", "url": "URL4" },
+          { "id": "demo", "title": "Demo", "url": "URL5" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "druk_3d",
+    "title": "Druk 3D",
+    "icon": "Ⳟ",
+    "sub_icon": "🝘",
+    "children": [
+      {
+        "id": "podstawy_druk3d",
+        "title": "Podstawy DRUK3D",
+        "icon": "𐄇",
+        "children": [
+          { "id": "strona_glowna", "title": "Strona główna", "url": "https://najlepszaopcja.com/hub/baza-wiedzy/baza-wiedzy-druk3d-main/" },
+          { "id": "technologie", "title": "Technologie", "url": "URL1" },
+          { "id": "materialy", "title": "Materiały", "url": "https://najlepszaopcja.com/hub/baza-wiedzy/baza-wiedzy-druk3d-materialy/" },
+          { "id": "proces", "title": "Proces", "url": "URL3" }
+        ]
+      },
+      {
+        "id": "workflow_i_demo",
+        "title": "Workflow i Demo",
+        "icon": "𐄈",
+        "children": [
+          { "id": "workflow", "title": "Workflow", "url": "URL4" },
+          { "id": "demo", "title": "Demo", "url": "URL5" }
+        ]
+      }
+    ]
+  }
+]
