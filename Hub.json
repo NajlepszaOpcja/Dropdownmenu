@@ -4,11 +4,13 @@
     "title": "Ai",
     "icon": "🜉",
     "sub_icon": "Ⳟ",
+    "description": "DESCRIPTION HOLDER",
     "children": [
       {
         "id": "podstawy_ai",
         "title": "Podstawy AI",
         "icon": "𐄇",
+        "description": "DESCRIPTION HOLDER",
         "children": [
           { "id": "1_podstawy_ai", "title": "1.Podstawy AI", "url": "URL1" },
           { "id": "2_podstawy_ai", "title": "2.Podstawy AI", "url": "URL1" },
@@ -20,6 +22,7 @@
         "id": "workflow_i_demo_ai",
         "title": "Workflow i Demo",
         "icon": "𐄈",
+        "description": "DESCRIPTION HOLDER",
         "children": [
           { "id": "workflow_ai", "title": "Workflow", "url": "URL4" },
           { "id": "demo_ai", "title": "Demo", "url": "URL5" }
@@ -32,11 +35,13 @@
     "title": "App",
     "icon": "🜋",
     "sub_icon": "Ⳟ",
+    "description": "DESCRIPTION HOLDER",
     "children": [
       {
         "id": "podstawy_app",
         "title": "Podstawy APP",
         "icon": "𐄇",
+        "description": "DESCRIPTION HOLDER",
         "children": [
           { "id": "1_app", "title": "1", "url": "URL1" },
           { "id": "2_app", "title": "2", "url": "URL1" },
@@ -47,6 +52,7 @@
         "id": "workflow_i_demo_app",
         "title": "Workflow i Demo",
         "icon": "𐄈",
+        "description": "DESCRIPTION HOLDER",
         "children": [
           { "id": "workflow_app", "title": "Workflow", "url": "URL4" },
           { "id": "demo_app", "title": "Demo", "url": "URL5" }
@@ -59,11 +65,13 @@
     "title": "Grafika 3D",
     "icon": "🝕",
     "sub_icon": "Ⳟ",
+    "description": "DESCRIPTION HOLDER",
     "children": [
       {
         "id": "podstawy_3d",
         "title": "Podstawy 3D",
         "icon": "𐄇",
+        "description": "DESCRIPTION HOLDER",
         "children": [
           { "id": "1_3d", "title": "1", "url": "URL1" },
           { "id": "2_3d", "title": "2", "url": "URL1" },
@@ -74,6 +82,7 @@
         "id": "workflow_i_demo_3d",
         "title": "Workflow i Demo",
         "icon": "𐄈",
+        "description": "DESCRIPTION HOLDER",
         "children": [
           { "id": "workflow_3d", "title": "Workflow", "url": "URL4" },
           { "id": "demo_3d", "title": "Demo", "url": "URL5" }
@@ -86,11 +95,13 @@
     "title": "Druk 3D",
     "icon": "🝘",
     "sub_icon": "Ⳟ",
+    "description": "DESCRIPTION HOLDER",
     "children": [
       {
         "id": "podstawy_druk3d",
         "title": "Podstawy DRUK3D",
         "icon": "𐄇",
+        "description": "DESCRIPTION HOLDER",
         "children": [
           { "id": "strona_glowna_druk3d", "title": "Strona główna", "url": "https://najlepszaopcja.com/hub/baza-wiedzy/baza-wiedzy-druk3d-main/" },
           { "id": "technologie_druk3d", "title": "Technologie", "url": "URL1" },
@@ -102,6 +113,7 @@
         "id": "workflow_i_demo_druk3d",
         "title": "Workflow i Demo",
         "icon": "𐄈",
+        "description": "DESCRIPTION HOLDER",
         "children": [
           { "id": "workflow_druk3d", "title": "Workflow", "url": "URL4" },
           { "id": "demo_druk3d", "title": "Demo", "url": "URL5" }
@@ -114,11 +126,13 @@
     "title": "Drony",
     "icon": "🜁",
     "sub_icon": "Ⳟ",
+    "description": "DESCRIPTION HOLDER",
     "children": [
       {
         "id": "podstawy_drony",
         "title": "Podstawy DRONY",
         "icon": "𐄇",
+        "description": "DESCRIPTION HOLDER",
         "children": [
           { "id": "1_drony", "title": "1", "url": "URL1" },
           { "id": "2_drony", "title": "2", "url": "URL1" },
@@ -129,6 +143,7 @@
         "id": "workflow_i_demo_drony",
         "title": "Workflow i Demo",
         "icon": "𐄈",
+        "description": "DESCRIPTION HOLDER",
         "children": [
           { "id": "workflow_drony", "title": "Workflow", "url": "URL4" },
           { "id": "demo_drony", "title": "Demo", "url": "URL5" }
@@ -141,11 +156,13 @@
     "title": "Foto",
     "icon": "🜳",
     "sub_icon": "Ⳟ",
+    "description": "DESCRIPTION HOLDER",
     "children": [
       {
         "id": "podstawy_foto",
         "title": "Podstawy FOTO",
         "icon": "𐄇",
+        "description": "DESCRIPTION HOLDER",
         "children": [
           { "id": "1_foto", "title": "1", "url": "URL1" },
           { "id": "2_foto", "title": "2", "url": "URL1" },
@@ -157,6 +174,7 @@
         "id": "workflow_i_demo_foto",
         "title": "Workflow i Demo",
         "icon": "𐄈",
+        "description": "DESCRIPTION HOLDER",
         "children": [
           { "id": "workflow_foto", "title": "Workflow", "url": "URL4" },
           { "id": "demo_foto", "title": "Demo", "url": "URL5" }
@@ -168,11 +186,13 @@
     "id": "test_1",
     "title": "Test 1",
     "icon": "⺋",
+    "description": "DESCRIPTION HOLDER",
     "children": [
       {
         "id": "podstawy_test1",
         "title": "Podstawy Test 1",
         "icon": "𐄇",
+        "description": "DESCRIPTION HOLDER",
         "children": [
           { "id": "1_test1", "title": "1", "url": "URL1" },
           { "id": "2_test1", "title": "2", "url": "URL1" },
@@ -184,6 +204,7 @@
         "id": "test1_1",
         "title": "Test 1.1",
         "icon": "𐄈",
+        "description": "DESCRIPTION HOLDER",
         "children": [
           { "id": "workflow_test1", "title": "Workflow", "url": "URL4" },
           { "id": "demo_test1", "title": "Demo", "url": "URL5" }
@@ -195,11 +216,13 @@
     "id": "test_2",
     "title": "Test 2",
     "icon": "Ⳍ",
+    "description": "DESCRIPTION HOLDER",
     "children": [
       {
         "id": "podstawy_test2",
         "title": "Podstawy Test 2",
         "icon": "𐄇",
+        "description": "DESCRIPTION HOLDER",
         "children": [
           { "id": "1_test2", "title": "1", "url": "URL1" },
           { "id": "2_test2", "title": "2", "url": "URL1" },
@@ -211,6 +234,7 @@
         "id": "test2_1",
         "title": "Test 2.1",
         "icon": "𐄈",
+        "description": "DESCRIPTION HOLDER",
         "children": [
           { "id": "workflow_test2", "title": "Workflow", "url": "URL4" },
           { "id": "demo_test2", "title": "Demo", "url": "URL5" }
@@ -222,11 +246,13 @@
     "id": "test_3",
     "title": "Test 3",
     "icon": "🜽",
+    "description": "DESCRIPTION HOLDER",
     "children": [
       {
         "id": "podstawy_test3",
         "title": "Podstawy Test 3",
         "icon": "𐄇",
+        "description": "DESCRIPTION HOLDER",
         "children": [
           { "id": "1_test3", "title": "1", "url": "URL1" },
           { "id": "2_test3", "title": "2", "url": "URL1" },
@@ -238,6 +264,7 @@
         "id": "test3_1",
         "title": "Test 3.1",
         "icon": "𐄈",
+        "description": "DESCRIPTION HOLDER",
         "children": [
           { "id": "workflow_test3", "title": "Workflow", "url": "URL4" },
           { "id": "demo_test3", "title": "Demo", "url": "URL5" }
