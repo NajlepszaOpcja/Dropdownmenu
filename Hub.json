@@ -4,7 +4,7 @@
     "title": "Ai",
     "icon": "🜉",
     "sub_icon": "Ⳟ",
-    "description": "DESCRIPTION HOLDER",
+    "description": "SIEMANKO AI",
     "children": [
       {
         "id": "podstawy_ai",
@@ -35,7 +35,7 @@
     "title": "App",
     "icon": "🜋",
     "sub_icon": "Ⳟ",
-    "description": "DESCRIPTION HOLDER",
+    "description": "DOWIEDZ SIE O APPKACH",
     "children": [
       {
         "id": "podstawy_app",
@@ -65,7 +65,7 @@
     "title": "Grafika 3D",
     "icon": "🝕",
     "sub_icon": "Ⳟ",
-    "description": "DESCRIPTION HOLDER",
+    "description": "CZY D?",
     "children": [
       {
         "id": "podstawy_3d",
@@ -95,7 +95,7 @@
     "title": "Druk 3D",
     "icon": "🝘",
     "sub_icon": "Ⳟ",
-    "description": "DESCRIPTION HOLDER",
+    "description": "WYDRUKUJ SE",
     "children": [
       {
         "id": "podstawy_druk3d",
@@ -183,8 +183,8 @@
     ]
   },
   {
-    "id": "test_1",
-    "title": "Test 1",
+    "id": "kontakt",
+    "title": "Kontakt",
     "icon": "⺋",
     "description": "DESCRIPTION HOLDER",
     "children": [
@@ -213,9 +213,9 @@
     ]
   },
   {
-    "id": "test_2",
-    "title": "Test 2",
-    "icon": "Ⳍ",
+    "id": "szkolenia",
+    "title": "Szkolenia",
+    "icon": "🜲",
     "description": "DESCRIPTION HOLDER",
     "children": [
       {
@@ -243,8 +243,8 @@
     ]
   },
   {
-    "id": "test_3",
-    "title": "Test 3",
+    "id": "siemanko",
+    "title": "SIEMANKO",
     "icon": "🜽",
     "description": "DESCRIPTION HOLDER",
     "children": [
