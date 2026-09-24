@@ -3,8 +3,9 @@ CATEGORY | Ⳟ Hub | 🜛 |
 ᚲ Start,https://najlepszaopcja.com/hub;
 ᚲ Aktualności,https://najlepszaopcja.com/hub/aktualnosci/;
 ᚲ Baza Wiedzy,https://najlepszaopcja.com/hub/baza-wiedzy;
-ᚲ O nas(?),https://najlepszaopcja.com/hub/o-nas/;
+ᚲ O nas,https://najlepszaopcja.com/hub/o-nas/;
 ᚲ Usługi,https://najlepszaopcja.com/hub/uslugi/;
+ᚲ Portfolio,https://najlepszaopcja.com/portfolio/;
 
 CATEGORY | Ⳟ Ai | 🜉 |
 ᚲ Ai Main,https://najlepszaopcja.com/ai;
@@ -37,12 +38,12 @@ CATEGORY | Ⳟ Drony | 🜁 |
 ᚲ 3D z Drona,https://najlepszaopcja.com/drony/dron-3d/;
 ᚲ Usługi UAV,https://najlepszaopcja.com/drony/uslugi-uav/;
 ᚲ Systemy UAV,https://najlepszaopcja.com/drony/systemy-uav/;
-ᚲ Baza wiedzy,URL4;
+ᚲ Baza wiedzy,https://najlepszaopcja.com/hub/baza-wiedzy/;
 
 CATEGORY | Ⳟ Foto | 🜳 |
 ᚲ Foto Main,https://najlepszaopcja.com/foto/;
 ᚲ Galeria,https://najlepszaopcja.com/foto/galeria/;
-ᚲ Fotogametria,https://najlepszaopcja.com/foto/fotogametria/
+ᚲ Fotogrametria,https://najlepszaopcja.com/foto/fotogametria/;
 
 CATEGORY | Ⳟ Szkolenia | 🝆 |
 ᚲ Szkolenia,https://najlepszaopcja.com/szkolenia;
